@@ -9,7 +9,7 @@
 #define MAX_STOCK_LIMIT 10
 #define MAX_MONEY_LIMIT 5
 
-
+/* 9999 for Admin Mode password/*
 struct menu
 {
     int itemNo;
